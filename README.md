@@ -65,7 +65,7 @@ Getting Started
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/mini-project-3.git
+git clone https://github.com/AmrEssamYoussef/Temperature-Controlled-Fan-System.git
 Build the Project: Follow your IDE/compiler instructions to build and upload the code to the ATmega16 microcontroller.
 Connect the Hardware: Ensure all components are connected as per the specifications.
 Run the System: Power up the system and observe the fan control based on temperature changes.
