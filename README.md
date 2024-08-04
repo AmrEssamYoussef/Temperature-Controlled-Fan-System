@@ -69,3 +69,6 @@ git clone https://github.com/AmrEssamYoussef/Temperature-Controlled-Fan-System.g
 Build the Project: Follow your IDE/compiler instructions to build and upload the code to the ATmega16 microcontroller.
 Connect the Hardware: Ensure all components are connected as per the specifications.
 Run the System: Power up the system and observe the fan control based on temperature changes.
+
+Video Demonstration
+For a visual demonstration of the project, check this video https://drive.google.com/file/d/12fUNC8MoDYOeZBIJRvUK0G4baqW6iJCP/view?usp=sharing.
